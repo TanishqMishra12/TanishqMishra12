@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TanishqMishra12
 - 👀 I’m interested in AI and machine learning
 - 🌱 I’m currently learning c++, python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on new technology relatred to AI 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
