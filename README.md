@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TanishqMishra12
+- 👋 Hi, I’m Tanishq Mishra
 - 👀 I’m interested in AI and machine learning
-- 🌱 I’m currently learning c++, python 
-- 💞️ I’m looking to collaborate on new technology relatred to AI 
+- 🌱 I’m currently learning c++,python,java 
+- 💞️ I’m looking to collaborate on new technology relatred to AI and ml
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 TanishqMishra12/TanishqMishra12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
