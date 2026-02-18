@@ -51,15 +51,7 @@ passionate_about: "Systems that are fast, accurate, and actually useful"
 
 ---
 
-## 🏅 Credentials
 
-```
-✦ HackerRank 5-Star  ──────────────────  Python & Java
-✦ HackerRank Certified  ───────────────  Python (Intermediate) · Problem Solving  
-✦ Applied ML in Python  ───────────────  University of Michigan × Coursera
-```
-
----
 
 <div align="center">
 <sub>Always building. Always learning.</sub>
