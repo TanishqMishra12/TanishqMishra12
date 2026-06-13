@@ -1,8 +1,5 @@
 ```markdown
 ## 🪐 About Me
-
-<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 I'm a **Computer Science student** specializing in **Artificial Intelligence and Machine Learning** at **VIT Bhopal**, with **4+ months of industry internship experience** delivering production-grade AI systems. I focus on building **LLM-powered applications**, **Retrieval-Augmented Generation (RAG) pipelines**, and **autonomous AI agents**, backed by strong **scalable backend engineering** skills in Python, FastAPI, and LangChain.
 
 - 🤖 Skilled in **LLMs, RAG, NLP, Prompt Engineering, and AI Agents**
