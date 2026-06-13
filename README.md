@@ -1,35 +1,4 @@
 ```markdown
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Hi%20There,%20I'm%20Tanishq%20Mishra&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20LLM%20%26%20RAG%20Systems%20%7C%20Backend%20Developer&descAlignY=58&descAlign=50" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%7C+LLMs+%26+RAG+Pipelines;Autonomous+Agent+Developer+%7C+LangChain+%26+LangGraph;Backend+Engineer+%7C+FastAPI+%26+Scalable+Systems;Open+to+AI%2FML+%26+Software+Engineering+Roles&font=Fira+Code&center=true&width=600&height=50&color=A78BFA&vCenter=true&size=22&pause=1000" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![B.Tech](https://img.shields.io/badge/B.Tech-AI%20%26%20Machine%20Learning-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.6%2F10-7C3AED?style=for-the-badge&logo=academicfile&logoColor=white)
-![Location](https://img.shields.io/badge/Location-India-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishqmishra-205315303)
-[![Email](https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mishratanishq539@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqmishra)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=tanishqmishra&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/tanishqmishra?style=for-the-badge&color=6d28d9&labelColor=1a1a2e&logo=github)
-![Stars](https://img.shields.io/github/stars/tanishqmishra?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&logo=github)
-
-</div>
-
----
-
 ## 🪐 About Me
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
